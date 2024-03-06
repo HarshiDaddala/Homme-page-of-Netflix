@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Homepage</title>
+    <link rel="stylesheet" href="netflix.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="C:\Users\melod\Downloads\Netflix-new-icon.png" alt="Netflix Logo">
+            </div>
+            <div class="nav-links">
+                <a href="#">Home</a>
+                <a href="#">TV Shows</a>
+                <a href="#">Movies</a>
+                <!-- Add more links as needed -->
+            </div>
+            <div class="login-btn">
+                <button>Sign In</button>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Unlimited movies, TV shows, and more.</h1>
+            <p>Watch anywhere. Cancel anytime.</p>
+            <button>Join Free for a Month</button>
+        </div>
+    </section>
+
+    <!-- Add more sections for categories, recommended content, etc. -->
+
+    <footer>
+        <p>&copy; 2024 Netflix, Inc.</p>
+    </footer>
+</body>
+</html>  
